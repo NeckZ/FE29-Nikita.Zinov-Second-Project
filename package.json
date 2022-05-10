@@ -1,0 +1,16 @@
+{
+  "name": "2-activebox-second-landing",
+  "version": "1.0.0",
+  "description": "second landing",
+  "source": "src/index.html",
+  "scripts": {
+    "start": "parcel",
+    "build": "parcel build"
+  },
+  "author": "NeckZ",
+  "license": "ISC",
+  "devDependencies": {
+    "@parcel/transformer-sass": "^2.5.0",
+    "parcel": "^2.5.0"
+  }
+}

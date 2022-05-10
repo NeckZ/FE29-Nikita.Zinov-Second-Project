@@ -1,0 +1,23 @@
+@import "fonts.scss";
+@import "var.scss";
+
+* {
+    margin: 0;
+    padding: 0;
+    list-style: none;
+    box-sizing: border-box;
+    text-decoration: none;
+}
+.container {
+    min-width: 1170px;
+    padding: 0 15px;
+    margin: auto;
+    position: relative;
+}
+.main-title {
+    font-family: 'Raleway', sans-serif;
+    font-style: normal;
+    font-size: $_24px;
+    font-weight: 500;
+    border-bottom: $bd; 
+}
